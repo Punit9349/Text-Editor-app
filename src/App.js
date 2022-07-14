@@ -2,7 +2,6 @@ import './App.css';
 import Navbar from './Components/Navbar';
 import PropTypes from "prop-types"
 import Textform from './Components/Textform';
-import About from './Components/About';
 
 
 function App() {
